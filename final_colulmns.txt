@@ -1,0 +1,46 @@
+<class 'pandas.core.frame.DataFrame'>
+Index: 37497 entries, 0 to 39716
+Data columns (total 39 columns):
+ #   Column                  Non-Null Count  Dtype  
+---  ------                  --------------  -----  
+ 0   loan_amnt               37497 non-null  int64  
+ 1   funded_amnt_inv         37497 non-null  float64
+ 2   term                    37497 non-null  int64  
+ 3   int_rate                37497 non-null  float64
+ 4   installment             37497 non-null  float64
+ 5   grade                   37497 non-null  object 
+ 6   sub_grade               37497 non-null  int64  
+ 7   emp_length              37497 non-null  float64
+ 8   home_ownership          37497 non-null  object 
+ 9   annual_inc              37497 non-null  float64
+ 10  verification_status     37497 non-null  object 
+ 11  loan_status             37497 non-null  object 
+ 12  pymnt_plan              37497 non-null  object 
+ 13  purpose                 37497 non-null  object 
+ 14  addr_state              37497 non-null  object 
+ 15  dti                     37497 non-null  float64
+ 16  delinq_2yrs             37497 non-null  int64  
+ 17  earliest_cr_line        37497 non-null  object 
+ 18  inq_last_6mths          37497 non-null  int64  
+ 19  mths_since_last_delinq  13325 non-null  float64
+ 20  mths_since_last_record  2619 non-null   float64
+ 21  open_acc                37497 non-null  int64  
+ 22  pub_rec                 37497 non-null  int64  
+ 23  revol_bal               37497 non-null  int64  
+ 24  revol_util              37497 non-null  object 
+ 25  total_acc               37497 non-null  int64  
+ 26  out_prncp               37497 non-null  float64
+ 27  out_prncp_inv           37497 non-null  float64
+ 28  total_pymnt             37497 non-null  float64
+ 29  total_pymnt_inv         37497 non-null  float64
+ 30  total_rec_prncp         37497 non-null  float64
+ 31  total_rec_int           37497 non-null  float64
+ 32  total_rec_late_fee      37497 non-null  float64
+ 33  recoveries              37497 non-null  float64
+ 34  last_pymnt_d            37435 non-null  object 
+ 35  last_pymnt_amnt         37497 non-null  float64
+ 36  last_credit_pull_d      37495 non-null  object 
+ 37  application_type        37497 non-null  object 
+ 38  pub_rec_bankruptcies    36800 non-null  float64
+dtypes: float64(18), int64(9), object(12)
+memory usage: 11.4+ MB
