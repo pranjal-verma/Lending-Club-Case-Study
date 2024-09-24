@@ -1,12 +1,10 @@
 # Project Name
-/**
- * 
+
  * This project aims to perform an Exploratory Data Analysis (EDA) on a given dataset of past loan applicants which have paid or defaulted on their loan. 
  * The EDA process involves cleaning and analysing the  dataset, 
  *  cleaning involaves preparing the data for analysis. such as its distribution, missing values, outliers, and relationships between variables. 
  *  The goal is to gain insights and understanding of the data using it to taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc.
- */
-> Outline a brief description of your project.
+ 
 
 
 ## Table of Contents
