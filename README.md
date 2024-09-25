@@ -1,4 +1,4 @@
-# Project Name
+# Lending Club Case Study
 
  * This project aims to perform an Exploratory Data Analysis (EDA) on a given dataset of past loan applicants which have paid or defaulted on their loan. 
  * The EDA process involves cleaning and analysing the  dataset, 
